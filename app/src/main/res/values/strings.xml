@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photo App</string>
+    <string name="todo">TODO</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="open_gallery" />
+    <string name="btn">OPEN GALLERY</string>
+</resources>
